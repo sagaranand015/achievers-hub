@@ -11,8 +11,8 @@
     <meta name="keywords" content="">
     <meta name="author" content="">
 
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-	<link rel="icon" href="img/favicon.ico" type="image/x-icon" />
+    <!-- <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="img/favicon.ico" type="image/x-icon" /> -->
 
     <title>Home | Achievers-Hub</title>
 
